@@ -1,3 +1,3 @@
-Desktop apps for https://chatkit.app
+Desktop apps for ChatKit
 
-Currently only for macOS.
+Download it here: https://chatkit.app/download
